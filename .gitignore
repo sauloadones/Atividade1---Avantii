@@ -1,2 +1,12 @@
-.vagrant
-Vagrantfile
+# Ignorar diretório de metadados do Vagrant
+.vagrant/
+
+# Arquivos de saída de máquinas provisionadas (se houver)
+*.box
+
+# Ignorar logs e cache comuns
+*.log
+*.swp
+
+# Ignorar backups de editor
+*~
