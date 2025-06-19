@@ -1,6 +1,6 @@
 # Ignorar diretório de metadados do Vagrant
 .vagrant/
-
+Vagrantfile
 # Arquivos de saída de máquinas provisionadas (se houver)
 *.box
 
